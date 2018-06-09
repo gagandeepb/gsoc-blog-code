@@ -1,0 +1,9 @@
+email,first_name,last_name,is_member,days_in_queue
+"james@example.com","James","Smith",True,1
+"betty@example.com","Betty","Jones",False,42
+"james@pallo.com","James","Pallo",True,1
+"betty@sims.com","Betty","Sims",False,42
+"james@oreily.com","James","O'Reily",True,1
+"sam@sophitz.com","Sam","Sophitz",False,42
+"sam@jely.com","Sam","Jely",True,1
+"sam@example.com","Sam","Taylor",False,42
