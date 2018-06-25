@@ -41,6 +41,8 @@ executables:
     - -threaded
     - -rtsopts
     - -with-rtsopts=-N
+    - -ddump-splices
+    - -ddump-to-file
     dependencies:
     - gsoc-blog-code
 
