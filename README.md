@@ -1,11 +1,9 @@
 # Accessing Postgres in a Dataframe in Haskell
 
-This repsoitory contains code (on branch `early-steps`) accompanying the blog posts:
+This repository contains code (on branch `generic-vinyl`) accompanying the blog post:
 
-* [Accessing Postgres in a Dataframe in Haskell: Early Steps, Part 1][part1]
-
-* [Accessing Postgres in a Dataframe in Haskell: Early Steps, Part 2][part2]
+* [Deriving Vinyl Representation From Plain Haskell Records][generic-vinyl]
 
 
-[part1]: https://www.gagandeepbhatia.com/blog/accessing-postgres-in-a-dataframe-in-haskell-early-steps-part-1/
-[part2]: https://www.gagandeepbhatia.com/blog/accessing-postgres-in-a-dataframe-in-haskell-early-steps-part-2/
+
+[generic-vinyl]: https://www.gagandeepbhatia.com/blog/deriving-vinyl-representation-from-plain-haskell-records/
